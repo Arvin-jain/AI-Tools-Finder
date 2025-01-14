@@ -1,9 +1,7 @@
-This project is a website that allows the user to enter a image url or mpn to search a mongodb and weavaite to find the desired tool. The database is filled using scrape.js that can be run on a locally.
-The JSON file contains the mongodb data that can be placed into mongodb, to initialize the database.
+Developed a web app that allows users to search for tool data by uploading an image or entering a part number. The app retrieves results from a MongoDB database and Weaviate.
 
-script.js does the front end work while the server.js uses express, cors, and mongodb packages in order to run and receive api requests to query mongodb.
+Flask-based REST API: Created an API to process image-based queries in Weaviate, which returns results to a Node.js server for front-end rendering. Built a Python script that converts images into vectors using Weaviate libraries, requests, and PIL, enabling image-based searches.
 
-The Flask.py is a RESTAPI that takes an inputed image and queries weaviate. Then sends return data to the the node API, which then allows for output on frontend.
+Web Scraping: Implemented a web scraping script with JavaScript and Puppeteer to gather product data from three different online sellers, storing it in MongoDB.
 
-To display cheapest price link and img. main.css is linked to index.html and html files in the pages folder to style them. images are located in the images
-folder. 
+Node.js Server: Developed a Node.js server using Express.js and CORS, which functions as a REST API that queries MongoDB for the cheapest price from multiple online sellers and serves the results to the front-end.
