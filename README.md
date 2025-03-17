@@ -1,14 +1,9 @@
 # AI Tools Finder
  Find the cheapest price for your tool by sending an image or part number
-
-![Description of Image](https://media.licdn.com/dms/image/v2/D4E22AQECeswkzjYicQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732655706008?e=1740009600&v=beta&t=IJAJPFXPEMPCs9OVQ3DwFXFsSeegYH21nknpnN_Furs)
-
-![Description of Image](https://media.licdn.com/dms/image/v2/D4E22AQF7Tofk6QTyZw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732655706564?e=1740009600&v=beta&t=AEwkRzswkSQOvu9_vVbAeoQt5Nbd3eWVdd6qoWj8sbY)
-
-![image 3](https://media.licdn.com/dms/image/v2/D4E22AQH-lG5emog6pg/feedshare-shrink_20/feedshare-shrink_20/0/1732655705086?e=1740009600&v=beta&t=3BYUBz_Mn40FlEyn_H2BcEy664olWv0SmnsmpOovAYc)
-
-![image 4](https://media.licdn.com/dms/image/v2/D4E22AQHctizbqEWd4A/feedshare-shrink_20/feedshare-shrink_20/0/1732655705172?e=1740009600&v=beta&t=cIxPfG4RALLWkpMaj8Jn2q0GS2qY51cMSoLBvfjjCuw)
-
+![1732655706564 (1)](https://github.com/user-attachments/assets/bb884fe2-d225-4cec-b6ee-8a4544727dcc)
+![1732655705172 (1)](https://github.com/user-attachments/assets/a7eae17c-e5bd-4c88-8deb-abf38c51b763)
+![1732655705086 (1)](https://github.com/user-attachments/assets/f67de1ad-a37d-4d35-b5f1-6ac75032ae5c)
+![1732655706008 (1)](https://github.com/user-attachments/assets/839a9930-b9ff-4432-b5ac-1a2f2ba11eed)
 
 Developed a web app that allows users to search for tool data by uploading an image or entering a part number. The app retrieves results from a MongoDB database and Weaviate.
 
